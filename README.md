@@ -4,7 +4,7 @@
 
 I'm Ari, born in Venezuela and raised in wonderful city of Manhattan, New York . I am an Elon University graduate with a BS in Computer Science. I enjoy learning languages and frameworks like REACT.  
 
-Skills: Python / REACT / C++ / HTML / CSS / C# (UNITY)
+Skills: Python / REACT / C++ / HTML / CSS / C# (UNITY) / SQL
 
 - 🌱 I’m currently learning REACT 
 - 📫 How to reach me: ari.socorro@gmail.com 
