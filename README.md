@@ -11,6 +11,6 @@ Skills: Python / REACT / C++ / HTML / CSS / C# (UNITY) / SQL
 - 😄 Pronouns: he/him 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/arisocorro/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](www.linkedin.com/in/arisocorro)  
 
 
